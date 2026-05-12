@@ -83,6 +83,10 @@
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
+<div align="center">
+  <img src="walking.svg" width="100%" alt="walking character"/>
+</div>
+
 ---
 
 ## 🐍 Eating My Contributions
