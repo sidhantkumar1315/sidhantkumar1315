@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=4th-year+CS+%40+Dalhousie+University+%F0%9F%8E%93;Building+things+that+actually+ship+%F0%9F%9A%80;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Python;Open+to+Fall+2026+co-op+roles+%F0%9F%91%80" />
 </div>
 
+<div align="center">
+  <img src="character.svg" width="130" alt="waving character"/>
+</div>
+
 <br/>
 
 <div align="center">
@@ -78,19 +82,6 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidhantkumar1315&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhantkumar1315&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sidhantkumar1315&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
-</div>
 
 ---
 

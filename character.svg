@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="160" height="192">
+  <style>
+    @keyframes wave {
+      0%   { transform: rotate(10deg); }
+      50%  { transform: rotate(-25deg); }
+      100% { transform: rotate(10deg); }
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0px); }
+      50%       { transform: translateY(-8px); }
+    }
+    .character { animation: float 2.4s ease-in-out infinite; }
+    .arm-wave  {
+      transform-box: fill-box;
+      transform-origin: right center;
+      animation: wave 0.9s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- drop shadow -->
+  <ellipse cx="100" cy="236" rx="38" ry="5" fill="#00000018"/>
+
+  <g class="character">
+
+    <!-- hair back -->
+    <rect x="62" y="22" width="76" height="22" fill="#2E1A0E" rx="8"/>
+
+    <!-- face -->
+    <rect x="62" y="32" width="76" height="60" fill="#FFD5B8" rx="12"/>
+
+    <!-- hair top -->
+    <rect x="66" y="20" width="68" height="18" fill="#2E1A0E" rx="8"/>
+    <rect x="62" y="28" width="14" height="24" fill="#2E1A0E" rx="4"/>
+    <rect x="124" y="28" width="14" height="24" fill="#2E1A0E" rx="4"/>
+
+    <!-- eyebrows -->
+    <rect x="72" y="46" width="18" height="4" fill="#2E1A0E" rx="2"/>
+    <rect x="110" y="46" width="18" height="4" fill="#2E1A0E" rx="2"/>
+
+    <!-- eyes -->
+    <ellipse cx="83"  cy="59" rx="7" ry="8" fill="#1A1A2E"/>
+    <ellipse cx="117" cy="59" rx="7" ry="8" fill="#1A1A2E"/>
+    <!-- eye shine -->
+    <ellipse cx="80"  cy="56" rx="2.5" ry="2.5" fill="white"/>
+    <ellipse cx="114" cy="56" rx="2.5" ry="2.5" fill="white"/>
+
+    <!-- blush -->
+    <ellipse cx="72"  cy="72" rx="7" ry="4" fill="#FFB3A0" opacity="0.6"/>
+    <ellipse cx="128" cy="72" rx="7" ry="4" fill="#FFB3A0" opacity="0.6"/>
+
+    <!-- smile -->
+    <path d="M80 78 Q100 92 120 78" stroke="#C0392B" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+
+    <!-- neck -->
+    <rect x="88" y="90" width="24" height="16" fill="#FFD5B8"/>
+
+    <!-- body / shirt -->
+    <rect x="62" y="102" width="76" height="68" fill="#A78BFA" rx="8"/>
+    <!-- shirt collar -->
+    <polygon points="94,102 106,102 110,124 90,124" fill="#8B5CF6"/>
+    <!-- shirt pocket -->
+    <rect x="72" y="114" width="16" height="14" fill="#8B5CF6" rx="3"/>
+    <rect x="75" y="110" width="10" height="5" fill="#8B5CF6" rx="2"/>
+
+    <!-- right arm (down, static) -->
+    <rect x="138" y="102" width="36" height="18" fill="#A78BFA" rx="8"/>
+    <ellipse cx="176" cy="111" rx="10" ry="13" fill="#FFD5B8"/>
+
+    <!-- left arm (waving) -->
+    <g class="arm-wave">
+      <rect x="26" y="102" width="36" height="18" fill="#A78BFA" rx="8"/>
+      <ellipse cx="26" cy="111" rx="10" ry="13" fill="#FFD5B8"/>
+    </g>
+
+    <!-- pants -->
+    <rect x="62"  y="166" width="34" height="62" fill="#2C3A6E" rx="6"/>
+    <rect x="104" y="166" width="34" height="62" fill="#2C3A6E" rx="6"/>
+    <!-- belt -->
+    <rect x="62" y="164" width="76" height="10" fill="#1E2A55"/>
+    <!-- belt buckle -->
+    <rect x="90" y="165" width="20" height="8" fill="#A78BFA" rx="2"/>
+
+    <!-- shoes -->
+    <rect x="54"  y="218" width="44" height="14" fill="#1A1A2E" rx="5"/>
+    <rect x="102" y="218" width="44" height="14" fill="#1A1A2E" rx="5"/>
+    <!-- shoe highlight -->
+    <rect x="58"  y="220" width="16" height="4" fill="#ffffff18" rx="2"/>
+    <rect x="106" y="220" width="16" height="4" fill="#ffffff18" rx="2"/>
+
+  </g>
+</svg>
