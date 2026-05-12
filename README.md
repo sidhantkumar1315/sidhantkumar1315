@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://sidhantkumar1315.github.io/portfolioWebsite/">
-    <img src="https://img.shields.io/badge/Portfolio-00FF41?style=flat-square&logo=firefox-browser&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/Portfolio-2E7D32?style=flat-square&logo=firefox-browser&logoColor=white"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/sidhant-kumar-90ba65290/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -14,7 +14,7 @@
   <a href="mailto:sd247182@dal.ca">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>&nbsp;
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00FF41?style=flat-square&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2E7D32?style=flat-square&labelColor=C8FFB8&color=2E7D32"/>
 </div>
 
 <br/>
@@ -23,13 +23,24 @@
 
 ## `$ cat about.txt`
 
+<table>
+<tr>
+<td>
+
 ```text
 Name     :  Sidhant Kumar
 Degree   :  B.Sc Computer Science (Co-op) — Dalhousie University
 Location :  Halifax, Nova Scotia, Canada
 Seeking  :  Fall 2026 Software Developer Co-op
-Interests:  Real-time systems · AI applications · Full-stack dev
+Interests:  Real-time systems · AI apps · Full-stack dev
 ```
+
+</td>
+<td align="center">
+  <img src="https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif" width="220" alt="coding gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -95,18 +106,6 @@ drwxr-xr-x  Groki/        Voice-controlled AI inventory manager
 
 ---
 
-## `$ git log --graph --oneline`
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidhantkumar1315/sidhantkumar1315/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidhantkumar1315/sidhantkumar1315/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sidhantkumar1315/sidhantkumar1315/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/><_-Thanks%20for%20visiting-00FF41?style=flat-square&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/><_-Thanks%20for%20visiting-2E7D32?style=flat-square&labelColor=C8FFB8"/>
 </div>
